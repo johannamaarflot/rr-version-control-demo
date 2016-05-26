@@ -1,6 +1,8 @@
 ---
 title: "GDP and life expectancy"
 output:
+  word_document: default
+  pdf_document: default
   html_document:
     fig_height: 3
     fig_width: 6
